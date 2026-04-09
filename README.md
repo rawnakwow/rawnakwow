@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="BANNER_URL_HERE" alt="Rawnak Banner" width="1000">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Rawnak</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh. I love building real-world applications, especially in healthcare and mobile app development. I enjoy solving problems and learning new technologies.</h3>
 
