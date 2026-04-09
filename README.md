@@ -3,6 +3,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Rawnak</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1ABC9C&width=500&lines=Hi+%F0%9F%91%8B,+I'm+Rawnak;Nice+to+meet+you!" alt="Typing Animation" />
+</p>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh. I love building real-world applications, especially in healthcare and mobile app development. I enjoy solving problems and learning new technologies.</h3>
 
 - 🔭 I’m currently working on **Emergency Medical Service System**
