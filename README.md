@@ -19,8 +19,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/rawnakwow" target="blank">GitHub</a> |
-<a href="https://linkedin.com/in/rawnak-rawnak" target="blank">LinkedIn</a>
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:rawnakr955@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/rawnakwow" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/rawnak-rawnak" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
