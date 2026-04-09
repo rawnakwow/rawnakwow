@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="BANNER_URL_HERE" alt="Rawnak Banner" width="1000">
-</p>
+<img width="1586" height="400" alt="image" src="https://github.com/user-attachments/assets/1d661388-29c5-4a62-9884-bd03bafa20c0" />
+
 
 
 <h1 align="center">Hi 👋, I'm Rawnak</h1>
