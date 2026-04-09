@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Android Development, React, Firebase, Web Development**
 
-- 📫 How to reach me **rawnakr955@gmail.com**
+- 📫 How to reach me **mail.rawnakr955@gmail.com**
 
 - ⚡ Fun fact **I love building useful applications from simple ideas**
 
