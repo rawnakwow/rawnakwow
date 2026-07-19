@@ -22,16 +22,29 @@
 
 
 
- <h3 align="left">Connect with me:</h3>
+
+ ## 🌐 Connect With Me
+
 <p align="left">
-  <a href="mailto:rawnakr955@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" width="40" height="40"/>
+  <a href="mailto:mail.rawnakr955@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
-  <a href="https://github.com/rawnakwow" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" width="40" height="40"/>
+
+  <a href="https://www.linkedin.com/in/rawnak-rawnak">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  <a href="https://linkedin.com/in/rawnak-rawnak" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+
+  <a href="https://github.com/rawnakwow">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
