@@ -22,8 +22,7 @@
 
 
 
-
- ## 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:mail.rawnakr955@gmail.com">
