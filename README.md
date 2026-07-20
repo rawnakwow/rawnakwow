@@ -99,18 +99,21 @@
   />
 </p>
 
-### 📊 GitHub Overview
+---
+
+## 📊 GITHUB STATISTICS & ANALYSIS
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=rawnakwow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Rawnak's GitHub Statistics"
+    alt="GitHub Stats"
     width="49%"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawnakwow&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Rawnak's Most Used Languages"
+    alt="Top Languages"
     width="41%"
   />
 </p>
@@ -120,8 +123,18 @@
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=rawnakwow&theme=tokyonight&hide_border=true"
-    alt="Rawnak's GitHub Streak"
+    alt="GitHub Streak"
     width="70%"
+  />
+</p>
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rawnakwow/rawnakwow/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
   />
 </p>
 
