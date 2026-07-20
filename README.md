@@ -150,11 +150,10 @@
 
 <p align="center">
   <img
-    src="rawnak-portfolio-1zgr.vercel.app"
+    src="https://komarev.com/ghpvc/?username=rawnakwow&style=for-the-badge&color=blueviolet"
     alt="Profile Views"
   />
 </p>
-
 
 
 
