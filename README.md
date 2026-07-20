@@ -85,6 +85,68 @@
 
 
 
+---
+
+## 📊 GitITHUB STATISTICS & ANALYSIS
+
+### 📈 GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/1ABC9C/rawnakwow"
+    alt="Rawnak's GitHub Contribution Chart"
+    width="100%"
+  />
+</p>
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rawnakwow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Rawnak's GitHub Statistics"
+    width="49%"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawnakwow&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Rawnak's Most Used Languages"
+    width="41%"
+  />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rawnakwow&theme=tokyonight&hide_border=true"
+    alt="Rawnak's GitHub Streak"
+    width="70%"
+  />
+</p>
+
+### 📌 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rawnakwow&theme=tokyo-night&hide_border=true&area=true"
+    alt="Rawnak's GitHub Activity Graph"
+    width="100%"
+  />
+</p>
+
+### 📋 Profile Summary
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rawnakwow&theme=tokyonight"
+    alt="Rawnak's GitHub Profile Summary"
+    width="100%"
+  />
+</p>
+
+
+
 
 <h3 align="left">Social</h3>
 
