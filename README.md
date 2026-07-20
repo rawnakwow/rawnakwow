@@ -93,6 +93,18 @@
 
 ## 📊 GITHUB STATISTICS & ANALYSIS
 
+
+### GitHub Contribution 
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rawnakwow/rawnakwow/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
+</p>
+
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -119,15 +131,7 @@
   />
 </p>
 
-### 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rawnakwow/rawnakwow/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake Animation"
-    width="100%"
-  />
-</p>
 
 ### 📌 Contribution Activity
 
