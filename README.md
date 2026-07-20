@@ -150,9 +150,8 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rawnakwow&theme=tokyonight"
-    alt="Rawnak's GitHub Profile Summary"
-    width="100%"
+    src="rawnak-portfolio-1zgr.vercel.app"
+    alt="Profile Views"
   />
 </p>
 
