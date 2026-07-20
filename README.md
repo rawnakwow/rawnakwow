@@ -89,21 +89,23 @@
 
 ---
 
+---
+
 ## 📊 GITHUB STATISTICS & ANALYSIS
 
 ### 📈 GitHub Stats
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rawnakwow&theme=github_dark"
     alt="Rawnak's GitHub Statistics"
-    height="190"
+    height="180"
   />
 
   <img
-    src="./profile/top-langs.svg"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rawnakwow&theme=github_dark"
     alt="Rawnak's Most Used Languages"
-    height="190"
+    height="180"
   />
 </p>
 
@@ -111,7 +113,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=rawnakwow&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=rawnakwow&theme=github-dark-blue&hide_border=true"
     alt="Rawnak's GitHub Streak"
     width="70%"
   />
@@ -120,34 +122,23 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rawnakwow/rawnakwow/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rawnakwow/rawnakwow/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/rawnakwow/rawnakwow/output/github-contribution-grid-snake.svg"
-      alt="Rawnak's GitHub Contribution Snake Animation"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/rawnakwow/rawnakwow/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </p>
 
 ### 📌 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rawnakwow&theme=tokyo-night&hide_border=true&area=true"
-    alt="Rawnak's Contribution Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rawnakwow&theme=github-dark&hide_border=true"
+    alt="Rawnak's GitHub Contribution Activity"
     width="100%"
   />
 </p>
+
 
 
 
