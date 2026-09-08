@@ -83,12 +83,12 @@ I enjoy building responsive, practical, and user-focused web applications.
 
 # 📊 GitHub Statistics & Analysis
 
-## 🐍 GitHub Contribution
+### GitHub Contribution 
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/rawnakwow/rawnakwow/output/github-contribution-grid-snake.svg"
-    alt="Rawnak GitHub Contribution Snake"
+    alt="GitHub Contribution Snake Animation"
     width="100%"
   />
 </p>
