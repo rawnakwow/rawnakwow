@@ -150,12 +150,30 @@
 
 
 
-### 📋 Profile Summary
+<h3>📋 Profile Summary</h3>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=rawnakwow&style=for-the-badge&color=blueviolet"
-    alt="Profile Views"
+    src="https://komarev.com/ghpvc/?username=rawnakwow&label=PROFILE+VIEWS&color=8a2be2&style=for-the-badge"
+    alt="Rawnak Profile Views"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rawnakwow&theme=github_dark"
+    width="32%"
+    alt="Top Languages"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rawnakwow&theme=github_dark"
+    width="32%"
+    alt="Most Commit Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rawnakwow&theme=github_dark&utcOffset=6"
+    width="32%"
+    alt="Productive Time"
   />
 </p>
 
