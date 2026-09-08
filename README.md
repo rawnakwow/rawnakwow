@@ -137,7 +137,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rawnakwow&theme=github-dark&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rawnakwow&theme=github_dark"
     alt="Rawnak's GitHub Contribution Activity"
     width="100%"
   />
